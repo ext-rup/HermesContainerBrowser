@@ -4,7 +4,7 @@ description: "Local Sidecar: a persistent headless Chromium with uBlock Origin L
   run in an isolated Apple Container on the same machine. No cloud, no API key —
   Hermes drives it over a loopback CDP endpoint. Select with
   `hermes config set browser.cloud_provider local-sidecar`."
-author: me
+author: ext-rup
 kind: backend
 provides_browser_providers:
   - local-sidecar
